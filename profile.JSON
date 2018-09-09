@@ -1,0 +1,8 @@
+{
+  "firstName":"Kayla",
+  "lastName":"Lebron",
+  "displayHandle":"Welcome!",
+  "posts": ["Good morning everyone!", "I'm hungry", "The weather was good today."],
+  "age": 21,
+  "active": true
+}
